@@ -9,3 +9,5 @@ git track changes
 so stupid bossgit sta
 
 create a dev branch is so quick~
+
+refind the function in master branch
