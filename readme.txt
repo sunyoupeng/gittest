@@ -6,4 +6,6 @@ now talking about stage
 
 git track changes
 
-so stupid boss
+so stupid bossgit sta
+
+create a dev branch is so quick~
