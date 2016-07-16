@@ -13,3 +13,5 @@ create a dev branch is so quick~
 refind the function in master branch
 
 add feature1
+
+add feature2
