@@ -10,7 +10,9 @@ so stupid bossgit sta
 
 create a dev branch is so quick~
 
-refind the function in master branch
+refind the function in master branch 
+
+issue fixed.
 
 add feature1
 
